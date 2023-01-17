@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msg-macv",
+  "version": "1.0.0",
+  "description": "Pruebas npm - Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macv9620/random-str-msg-macv.git"
+  },
+  "author": "Mateo Vasco <matecas20@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macv9620/random-str-msg-macv/issues"
+  },
+  "homepage": "https://github.com/macv9620/random-str-msg-macv#readme",
+  "bin": {
+    "random-str-msg-macv": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
